@@ -26,4 +26,4 @@ Si ocurre un error durante la solicitud a la API, como si el nombre del Pokémon
 
 ## Autor
 
-Este proyecto fue creado por Eloygar. Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto.
+Este proyecto fue creado por @eloygar. Si tiene alguna pregunta o sugerencia, no dude en ponerse en contacto.
