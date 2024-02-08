@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PokeAPI Search</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>PokeAPI Search</h1>
+        <div class="search-container">
+            <input type="text" id="pokemonName" placeholder="Enter Pokemon Name">
+            <select id="method">
+                <option value="promises">Promises</option>
+                <option value="async-await">Async/Await</option>
+            </select>
+            <select id="dataType">
+                <option value="image">Image</option>
+                <option value="text">Text</option>
+            </select>
+            <button id="searchButton">Search</button>
+        </div>
+        <div class="pokemon-container" id="pokemonContainer"></div>
+    </div>
+    <script src="main.js"></script>
+</body>
+</html>
+
