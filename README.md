@@ -6,6 +6,10 @@ Este proyecto es una aplicación web simple que permite a los usuarios buscar in
 
 Para usar la aplicación, simplemente ingrese el nombre de un Pokémon en el campo de texto y haga clic en el botón "Buscar". Puede seleccionar si desea buscar utilizando Promesas o Async/Await, y si desea obtener una imagen del Pokémon o información de texto.
 
+Puede ver la aplicación en acción [aquí](https://eloygar.github.io/ApiCall/).
+
+![Vista previa de la aplicación](img/Preview.png)
+
 ## Funcionamiento a Nivel de Código
 
 El código en `main.js` se ejecuta cuando la página HTML está completamente cargada. Se definen referencias a elementos del DOM y se asigna un evento de click al botón de búsqueda que llama a la función `searchPokemon()`. 
